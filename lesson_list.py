@@ -59,7 +59,6 @@ def add_list_double(times, value, array):
         return
     for i in range(times):
         array.append(value)
-    return array
 
 
 # human(人間）を三人文animalのlistの最後尾に入れる
