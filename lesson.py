@@ -1,11 +1,11 @@
-def hello(arg):
-	print(arg)
+# 関数の処理を定義して実行してみよう
 
-# 変数を定義
-hoge = 'このテキストが引数です'
+def hello(text):
+    print(text)
 
-# helloメソッドの呼び出し
-hello(hoge)
 
-# 処理結果
-# 
+# 変数を定義する
+
+
+hello('この文章を引数にしています')
+
