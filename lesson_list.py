@@ -64,5 +64,5 @@ def add_list_double(times, value, array):
 
 # human(人間）を三人文animalのlistの最後尾に入れる
 add_value = 'human'
-result_array = add_list_double(3, add_value, animals)
-print(result_array)
+add_list_double(3, add_value, animals)
+print(animals)
